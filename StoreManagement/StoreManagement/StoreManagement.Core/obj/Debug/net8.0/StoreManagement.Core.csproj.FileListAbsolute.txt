@@ -1,0 +1,30 @@
+E:\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.deps.json
+E:\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.dll
+E:\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.pdb
+E:\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Database.dll
+E:\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Database.pdb
+E:\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.csproj.AssemblyReference.cache
+E:\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.AssemblyInfoInputs.cache
+E:\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.AssemblyInfo.cs
+E:\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.csproj.CoreCompileInputs.cache
+E:\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreMan.0845169D.Up2Date
+E:\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.dll
+E:\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\refint\StoreManagement.Core.dll
+E:\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.pdb
+E:\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\ref\StoreManagement.Core.dll
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.deps.json
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.dll
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Core.pdb
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Database.dll
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\bin\Debug\net8.0\StoreManagement.Database.pdb
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.csproj.AssemblyReference.cache
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.AssemblyInfoInputs.cache
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.AssemblyInfo.cs
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreMan.0845169D.Up2Date
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.dll
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\refint\StoreManagement.Core.dll
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\StoreManagement.Core.pdb
+C:\Users\40754\Desktop\Anul 2\Semestrul 2\StoreManagement\StoreManagement\StoreManagement.Core\obj\Debug\net8.0\ref\StoreManagement.Core.dll
